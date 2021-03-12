@@ -3,3 +3,5 @@ Oranges
 Bananas
 Lychees
 Grapes
+Pears
+Guavas
